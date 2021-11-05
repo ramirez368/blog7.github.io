@@ -26,7 +26,7 @@ Further Enhanced Security
 Although edge computing is a sensible alternative to cloud computing in many instances, there’s always room for improvement. According to “Reconfigurable Security: Edge Computing-Based Framework for IoT”, a paper published by IEEE Network, existing IoT security protocols need improvement.
 
 A possible solution to better secure IoT-generated data is an IoT management element called the Security Agent. This new piece would use routers and other near-edge boxes to manage the computing the IoT device could not take on. In addition to being more secure, it’ll simplify the management of keys. The Security Agent box has the capability of running copious sensors that are difficult to access. The researchers’ state that if the needed authentification is not completed quickly, IoT applications will fail.
-![Why Two Tech Giants Are Arguing About Quantum Computers](https://media.wired.com/photos/5e333e15be05400008f39506/1:1/w_1500,c_limit/Business-QuantumComputing-Google-L1001386.jpg)
+![How Edge Computer Looks Like???](https://miro.medium.com/max/800/1*e-f-6BRq4-Bv4jW6CSjiTg.png)
 
 
 
