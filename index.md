@@ -20,13 +20,15 @@ Retail Advertising: Targeted ads and information for retail organizations are ba
 
 Smart Speakers: Smart speakers can gain the ability to interpret voice instructions locally in order to run basic commands. Turning lights on or off, or adjusting thermostat settings, even if internet connectivity fails would be possible.
 
+![How Edge Computer Looks Like???](https://miro.medium.com/max/800/1*e-f-6BRq4-Bv4jW6CSjiTg.png)
+
 Video Conferencing: Poor video quality, voice delays, frozen screens— a slow link to the cloud can cause many video conferencing frustrations. By placing the server-side of video conferencing software closer to participants, quality problems can be reduced.
 
 Further Enhanced Security
 Although edge computing is a sensible alternative to cloud computing in many instances, there’s always room for improvement. According to “Reconfigurable Security: Edge Computing-Based Framework for IoT”, a paper published by IEEE Network, existing IoT security protocols need improvement.
 
 A possible solution to better secure IoT-generated data is an IoT management element called the Security Agent. This new piece would use routers and other near-edge boxes to manage the computing the IoT device could not take on. In addition to being more secure, it’ll simplify the management of keys. The Security Agent box has the capability of running copious sensors that are difficult to access. The researchers’ state that if the needed authentification is not completed quickly, IoT applications will fail.
-![How Edge Computer Looks Like???](https://miro.medium.com/max/800/1*e-f-6BRq4-Bv4jW6CSjiTg.png)
+
 
 
 
