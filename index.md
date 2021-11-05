@@ -7,31 +7,29 @@ layout: default
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Quantum Computing
-Next remarkable technology trend is quantum computing, which is a form of computing that takes advantage of quantum phenomena like superposition and quantum entanglement. This amazing technology trend is also involved in preventing the spread of the coronavirus, and to develop potential vaccines, thanks to its ability to easily query, monitor, analyze and act on data, regardless of the source. Another field where quantum computing is finding applications in banking and finance, to manage credit risk, for high-frequency trading and fraud detection.
+# Edge Computing Use Cases
+Prime use cases, which take full advantage of edge technology, include:
 
-SQuantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass $2.5 billion by 2029. And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning.
+Autonomous Vehicles: The decision to stop for a pedestrian crossing in front of an autonomous vehicle (AV) must be made immediately. Relying on a remote server to handle this decision is not reasonable. Additionally, vehicles that utilize edge technology can interact more efficiently because they can communicate with each other first as opposed to sending data on accidents, weather conditions, traffic, or detours to a remote server first. Edge computing can help.
 
-## Why Two Tech Giants Are Arguing About Quantum Computers:
-## Is it a Google or IBM credit?
+Healthcare Devices: Health monitors and other wearable healthcare devices can keep an eye on chronic conditions for patients. It can save lives by instantly alerting caregivers when help is required. Additionally, robots assisting in surgery must be able to quickly analyze data in order to assist safely, quickly, and accurately. If these devices rely on transmitting data to the cloud before making decisions, the results could be fatal.
+
+Security Solutions: Because it’s necessary to respond to threats within seconds, security surveillance systems can also benefit from edge computing technology. Security systems can identify potential threats and alert users to unusual activity in real-time.
+
+Retail Advertising: Targeted ads and information for retail organizations are based on key parameters, such as demographic information, set on field devices. In this use case, edge computing can help protect user privacy. It can encrypt the data and keep the source rather than sending unprotected information to the cloud.
+
+Smart Speakers: Smart speakers can gain the ability to interpret voice instructions locally in order to run basic commands. Turning lights on or off, or adjusting thermostat settings, even if internet connectivity fails would be possible.
+
+Video Conferencing: Poor video quality, voice delays, frozen screens— a slow link to the cloud can cause many video conferencing frustrations. By placing the server-side of video conferencing software closer to participants, quality problems can be reduced.
+
+Further Enhanced Security
+Although edge computing is a sensible alternative to cloud computing in many instances, there’s always room for improvement. According to “Reconfigurable Security: Edge Computing-Based Framework for IoT”, a paper published by IEEE Network, existing IoT security protocols need improvement.
+
+A possible solution to better secure IoT-generated data is an IoT management element called the Security Agent. This new piece would use routers and other near-edge boxes to manage the computing the IoT device could not take on. In addition to being more secure, it’ll simplify the management of keys. The Security Agent box has the capability of running copious sensors that are difficult to access. The researchers’ state that if the needed authentification is not completed quickly, IoT applications will fail.
 ![Why Two Tech Giants Are Arguing About Quantum Computers](https://media.wired.com/photos/5e333e15be05400008f39506/1:1/w_1500,c_limit/Business-QuantumComputing-Google-L1001386.jpg)
 
 
-The tech giant announced that it had reached a long-anticipated milestone known as “quantum supremacy”—a watershed moment in which a quantum computer executes a calculation that no ordinary computer can match. In a new paper in Nature, Google described just such a feat performed on its state-of-the-art quantum machine, code-named “Sycamore.” Although quantum computers are not yet at a point where they can do useful things, this result demonstrates that they have an inherent advantage over ordinary computers for some tasks.
 
-
-Yet in an 11th-hour objection, Google’s chief quantum-computing rival asserted that the quantum-supremacy threshold has not yet been crossed. In a paper posted online Monday, IBM provided evidence that the world’s most powerful supercomputer can nearly keep pace with Google’s new quantum machine. As a result, IBM argued that Google’s claim should be received “with a large dose of skepticism.”
-
-Why all the confusion? Aren’t major milestones supposed to be big, unambiguous achievements? The episode reminds us that not all scientific revolutions arrive as a thunderclap—and that quantum supremacy in particular involves more nuance than fits in a headline.
-
-
-![Diagram of the Quantum ](https://www.microsoft.com/en-us/research/uploads/prod/2021/01/1400x788_Quantum_Still_NoLogo-1-655x368.jpg)
-
-Quantum computers have been under development for decades. While ordinary, or classical, computers perform calculations using sequences of bits composed of 1s and 0s, quantum computers encode information using quantum bits, or qubits, that behave according to the strange rules of quantum mechanics. Quantum computers aim to harness those features to rapidly perform calculations far beyond the capacity of any ordinary computer. But for years, quantum computers struggled to match the computing power of a handheld calculator.
-
-In 2012, John Preskill, a theoretical physicist at the California Institute of Technology, coined the phrase quantum supremacy to describe the moment when a quantum computer finally surpasses even the best supercomputer. The term caught on, but experts came to hold different ideas about what it means
-
-### I hope this was useful to how to setup Apache Server and being expose to more Linux
 
 
 ```
